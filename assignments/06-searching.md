@@ -13,14 +13,14 @@
 <!-- - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) -->
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 <!-- - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) -->
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+<!-- - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) -->
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+<!-- - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) -->
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+<!-- - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) -->
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 <!-- - [Binary Search](https://leetcode.com/problems/binary-search/) -->
@@ -28,7 +28,7 @@
 ## Medium
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+<!-- - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) -->
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 <!-- - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) -->
 <!-- - [Find Peak Element](https://leetcode.com/problems/find-peak-element/) -->
@@ -46,10 +46,10 @@
 
 ## Hard
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+<!-- - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) -->
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+<!-- - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) -->
 <!-- - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) -->
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
